@@ -1,0 +1,69 @@
+.site-layout-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+    margin-top: 35px;
+    height: calc(100% - 133px);
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background: #fff;
+    max-width: 450px;
+    width: 100%;
+    margin: 50px auto 0;
+    padding: 25px;
+}
+
+.admin-container {
+    background: #fff;
+    margin: 50px auto 0;
+    padding: 25px;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.new-user-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.block {
+    display: block
+}
+
+.input {
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    text-indent: 5px;
+    height: 30px;
+    width: 100%
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background: rgba(#888888, .5%);
+    margin: 10px 0;
+}
+
+.button-container {
+    display: flex;
+    margin: 15px auto;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}

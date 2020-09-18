@@ -1,0 +1,121 @@
+{
+  "records" : {
+    "ac8fc612-4c52-4d0a-b4ac-43b11e14bd62" : {
+      "2020-08-17" : {
+        "-MExO_tztYzuWTGMryT3" : {
+          "id" : "02486e32-69ac-477d-a943-5fb2b37f41ab",
+          "timespan" : 1597684213992,
+          "type" : "SET_ENTRY_TIME"
+        },
+        "-MExOajbWmEjYozuaxxb" : {
+          "id" : "e6545225-84ca-4e68-8272-53e5fdae331c",
+          "timespan" : 1597684217427,
+          "type" : "SET_LUNCH_TIME"
+        },
+        "-MExOaymPxumf0ti3ZJX" : {
+          "id" : "8bfaad0e-611a-4890-b083-b5fc86587e7b",
+          "timespan" : 1597684218398,
+          "type" : "SET_LUNCH_RETURN_TIME"
+        },
+        "-MExOb9xr9nd_SwSM4PX" : {
+          "id" : "9250cf07-9d82-473d-bc2b-40d427f95b9a",
+          "timespan" : 1597684219176,
+          "type" : "SET_LEAVE_TIME"
+        }
+      }
+    },
+    "e942ff6e-524c-4bfa-af3d-ba7f38da8003" : {
+      "2020-08-16" : {
+        "-MEuaBuw7Ab-S-IliaC-" : {
+          "id" : "4435d9cc-7594-427e-80e0-8e78ad309bcd",
+          "timespan" : 1597593600000,
+          "type" : "SET_ENTRY_TIME"
+        },
+        "-MEucFT9aNVmsPLVUr9f" : {
+          "id" : "5b096e0a-9929-4421-9bfd-237c2d8c5e07",
+          "timespan" : 1597608000000,
+          "type" : "SET_LUNCH_TIME"
+        },
+        "-MEucI7dfMV9lvCODDk5" : {
+          "id" : "aae88680-f55b-427a-8f8e-b5f9d51de411",
+          "timespan" : 1597611600000,
+          "type" : "SET_LUNCH_RETURN_TIME"
+        },
+        "-MEucK99sHdM2cv5Z0a_" : {
+          "id" : "548d4a93-67e3-470a-9a9a-302f4ed22f46",
+          "timespan" : 1597620600000,
+          "type" : "SET_LEAVE_TIME"
+        }
+      },
+      "2020-08-17" : {
+        "-MEv7esJMfnFEBflPbXM" : {
+          "id" : "c3f59cc9-1efe-47fb-8c45-72b4bc3c46a7",
+          "timespan" : 1597646221533,
+          "type" : "SET_ENTRY_TIME"
+        },
+        "-MExFZdPzkKQd0E6L9uE" : {
+          "id" : "16912930-da9e-48f9-a111-c484dab2c507",
+          "timespan" : 1597681841459,
+          "type" : "SET_LUNCH_RETURN_TIME"
+        },
+        "-MExFZtrHD0GyvYDmVDj" : {
+          "id" : "ce677a0b-9b73-4e81-b5f2-fdc8cf69748e",
+          "timespan" : 1597681842512,
+          "type" : "SET_LEAVE_TIME"
+        },
+        "-MExF_2gxSWeQ7-RkrFZ" : {
+          "id" : "f2b521ee-e2da-49f1-9662-401e1ff6d064",
+          "timespan" : 1597681843142,
+          "type" : "SET_LUNCH_TIME"
+        }
+      }
+    },
+    "fd430db2-8390-4b90-8a70-54e4ea58d284" : {
+      "2020-08-17" : {
+        "-MEykuRzB9cP1ExIIPWJ" : {
+          "id" : "dae475a8-2306-4072-a48e-f4f97c685f99",
+          "timespan" : 1597707102088,
+          "type" : "SET_ENTRY_TIME"
+        },
+        "-MEykzw2vPVk6i7DnFaH" : {
+          "id" : "e9e5a4e3-b798-465a-9436-8eb5e7e570b4",
+          "timespan" : 1597707124556,
+          "type" : "SET_LUNCH_TIME"
+        },
+        "-MEyl-_omMblb81xFFFT" : {
+          "id" : "250dda4e-9aca-4e08-8043-dc23956cc7f7",
+          "timespan" : 1597707127229,
+          "type" : "SET_LUNCH_RETURN_TIME"
+        },
+        "-MEyl0-rgyULUDMOLbiR" : {
+          "id" : "68fe5963-90bd-4946-9d3f-25ed9590a7ac",
+          "timespan" : 1597707128960,
+          "type" : "SET_LEAVE_TIME"
+        }
+      }
+    }
+  },
+  "users" : {
+    "ac8fc612-4c52-4d0a-b4ac-43b11e14bd62" : {
+      "expectedWorkHours" : "80",
+      "id" : "ac8fc612-4c52-4d0a-b4ac-43b11e14bd62",
+      "name" : "balderrama",
+      "pin" : "1234",
+      "user" : "balderrama"
+    },
+    "e942ff6e-524c-4bfa-af3d-ba7f38da8003" : {
+      "expectedWorkHours" : "40",
+      "id" : "e942ff6e-524c-4bfa-af3d-ba7f38da8003",
+      "name" : "flavio ochoa chincoya",
+      "pin" : "1234",
+      "user" : "flavio.ochoa92@gmail.com"
+    },
+    "fd430db2-8390-4b90-8a70-54e4ea58d284" : {
+      "expectedWorkHours" : "5",
+      "id" : "fd430db2-8390-4b90-8a70-54e4ea58d284",
+      "name" : "demo",
+      "pin" : "1234",
+      "user" : "demo"
+    }
+  }
+}
